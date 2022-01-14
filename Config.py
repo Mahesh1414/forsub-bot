@@ -10,8 +10,8 @@ class Config():
   else:
     BOT_TOKEN = ""
     DATABASE_URL = ""
-    APP_ID = ""
-    API_HASH = ""
+    APP_ID = "7903343"
+    API_HASH = "33e2c94e54db7dce047f572efa6f6679"
 
 
 class Messages():
